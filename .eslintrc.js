@@ -19,5 +19,6 @@ module.exports = {
   rules: {
     'no-param-reassign': 0,
     'no-unused-expressions': 0,
+    'import/prefer-default-export': 0,
   },
 };

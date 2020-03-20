@@ -3,10 +3,10 @@ import babel from 'rollup-plugin-babel';
 import compiler from '@ampproject/rollup-plugin-closure-compiler';
 
 export default {
-  input: 'src/alias-map.js',
+  input: 'src/domx.js',
   output: {
     file: 'lib/index.js',
-    format: 'cjs',
+    format: 'es',
   },
   plugins: [
     resolve(),
