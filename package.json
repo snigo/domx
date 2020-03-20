@@ -1,7 +1,7 @@
 {
   "name": "@lost-types/domx",
   "version": "0.1.1",
-  "description": "Index Library Template",
+  "description": "Collection of functions for DOM interactions",
   "main": "lib/index.js",
   "files": [
     "lib"
